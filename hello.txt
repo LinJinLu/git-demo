@@ -8,5 +8,5 @@ hello FirstGitDemo! master test -- toupdate
 hello FirstGitDemo!
 hello FirstGitDemo!
 hello FirstGitDemo!
-hello FirstGitDemo!
+hello FirstGitDemo! hot-fix test -- toupdate
 hello FirstGitDemo!

@@ -8,5 +8,5 @@ hello FirstGitDemo!
 hello FirstGitDemo!
 hello FirstGitDemo!
 hello FirstGitDemo!
-hello FirstGitDemo! hot-fix test -- toupdate
+hello FirstGitDemo! hot-fix test
 hello FirstGitDemo!
